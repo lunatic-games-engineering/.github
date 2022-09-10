@@ -12,6 +12,6 @@ NFTs in-game are obtained through rare drops and in-game events. Our sole missio
 
 ## Connect with Us
 
-Our Website: (https://www.lunaticgamestudio.xyz/)[https://www.lunaticgamestudio.xyz/]
+Our Website: [https://www.lunaticgamestudio.xyz/](https://www.lunaticgamestudio.xyz/)
 
-Our LinkTree: (https://linktr.ee/lunaticgamestudio)[https://linktr.ee/lunaticgamestudio]
+Our LinkTree: [https://linktr.ee/lunaticgamestudio](https://linktr.ee/lunaticgamestudio)
