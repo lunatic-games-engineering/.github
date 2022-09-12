@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunatic-games-studio&label=Profile%20views&color=0e75b6&style=flat" alt="lunatic-games-studio" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=lunatic-games-studio)](https://github.com/lunatic-games-studio/github-profile-trophy) </p>
+<p align="left">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lunatic-games-studio)](https://github.com/lunatic-games-studio/github-profile-trophy)
+</p>
 
 <p align="left"> <a href="https://twitter.com/lunatic_games_" target="blank"><img src="https://img.shields.io/twitter/follow/lunatic_games_?logo=twitter&style=for-the-badge" alt="lunatic_games_" /></a> </p>
 
