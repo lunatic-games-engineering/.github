@@ -9,7 +9,7 @@
 
 - 📝 We regularly write articles on [https://medium.com/@lunatic_games_studio](https://medium.com/@lunatic_games_studio)
 
-- 📫 How to reach us **aviraj@lunaticgamestudio.xyz**
+- 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
