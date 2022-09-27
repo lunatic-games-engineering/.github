@@ -7,7 +7,7 @@
 
 - 🔭 We are currently working on [NFT 2.0 - Interactive NFT](https://github.com/lunatic-games-studio/nft-2-0-interactive-nfts)
 
-- 📝 We regularly write articles on [https://medium.com/@lunatic_games_studio](https://medium.com/@lunatic_games_studio)
+- 📝 We regularly write articles on  https://medium.com/@lunatic_games_studio 
 
 
 
