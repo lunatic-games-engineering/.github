@@ -9,7 +9,7 @@
 
 - 📝 We regularly write articles on [https://medium.com/@lunatic_games_studio](https://medium.com/@lunatic_games_studio)
 
-- 
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
